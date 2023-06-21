@@ -1,4 +1,3 @@
-https://www.youtube.com/watch?v=lHE5i7sbhhU&list=PLx4x_zx8csUgQUjExcssR3utb3JIX6Kra&index=37&ab_channel=CFBCursos
 
 to_char(VA.DATA_ATUALIZACAO,'mm/dd/YYYY HH24:MI:SS')
 length(HOUR)
